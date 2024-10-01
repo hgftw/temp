@@ -1,0 +1,7 @@
+train: trainingdata_crop/train/images
+val: trainingdata_crop/valid/images
+test: trainingdata_crop/test/images
+
+nc: 1
+names: ['trunk']
+
